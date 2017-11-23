@@ -14,7 +14,7 @@ import json
 import time
 import cv2
 
-# construct the argument parser and parse the arguments
+# construct the argument parser and parse the arguments - teste
 ap = argparse.ArgumentParser()
 ap.add_argument("-c", "--conf", required=True,
 	help="path to the JSON configuration file")
